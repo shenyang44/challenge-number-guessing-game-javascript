@@ -1,4 +1,4 @@
-# challenge-number-guessing-game-javascript
+# Challenge: Number Guessing Game JavaScript
 
 This repository belongs to NEXT Academy and is a part of NEXT Academy's coding bootcamps. You may find more information about our bootcamp at https://www.nextacademy.com
 
